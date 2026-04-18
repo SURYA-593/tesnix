@@ -26,11 +26,4 @@
     "tailwindcss": "^4",
     "typescript": "^5"
   }
-  "scripts": {
-  "dev": "next dev",
-  "build": "next build",
-  "export": "next export",
-  "start": "next start",
-  "lint": "eslint"
-}
 }
