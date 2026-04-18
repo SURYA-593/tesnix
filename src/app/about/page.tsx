@@ -67,7 +67,7 @@ export default function AboutPage() {
                     transition={{ duration: 4, repeat: Infinity, ease: "easeInOut" }}
                   >
                     <Image
-                      src="/logo.png"
+                      src="/tesnix-removebg-preview.png"
                       alt="TESNIX"
                       width={300}
                       height={300}

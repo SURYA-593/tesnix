@@ -50,7 +50,7 @@ export default function Footer() {
           <div className="space-y-4">
             <Link href="/" className="flex items-center gap-3">
               <Image
-                src="/logo.png"
+                src="/tesnix-removebg-preview.png"
                 alt="TESNIX"
                 width={45}
                 height={45}

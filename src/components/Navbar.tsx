@@ -52,7 +52,7 @@ export default function Navbar() {
                 transition={{ type: "spring", stiffness: 300 }}
               >
                 <Image
-                  src="/logo.png"
+                  src="/tesnix-removebg-preview.png"
                   alt="TESNIX Logo"
                   width={50}
                   height={50}

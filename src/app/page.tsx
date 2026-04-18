@@ -157,7 +157,7 @@ export default function Home() {
                 >
                   <div className="absolute inset-0 bg-gradient-to-br from-primary/20 to-accent/20 rounded-full blur-3xl" />
                   <Image
-                    src="/logo.png"
+                    src="/tesnix-removebg-preview.png"
                     alt="TESNIX"
                     width={280}
                     height={280}
